@@ -3,6 +3,7 @@
 - SASS
 - Bootstrap
 - Vite.js
+- Responsive Website và Mobile
 
 ## Tạo Dự Án
 ```bash

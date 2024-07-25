@@ -60,12 +60,17 @@ body {
 ** Home Page CSS
 */
 
+@media (max-width: 768px) {
+    .navbar {
+        width: 100%;
+        max-width: 390px;
+        
+    }
+}
+
 // Navbar
 .navbar {
     background: $bg;
-    width: 100%;
-	max-width: 400px;
-
     .navbar-brand {
         font-weight: 800;
         transition: color .3s ease-in-out;
@@ -319,11 +324,17 @@ section {
     }
 }
 
+@media (max-width: 768px) {
+    .back_to_top{
+        margin-left: -50px;
+    }
+}
+
 .back_to_top {
     background: $primary;
     width: 60px;
     position: fixed;
-    right: 3rem;
+    right: 5rem;
     bottom: 3rem;
     border-radius: 100%;
     text-align: center;

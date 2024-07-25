@@ -18,7 +18,7 @@
 npm create svelte@latest
 
 # create a new project in my-app
-npm create svelte@latest my-app `(my-app là tên dự án)`
+npm create svelte@latest my-app *(my-app là tên dự án)*
 ```
 
 ## RUN

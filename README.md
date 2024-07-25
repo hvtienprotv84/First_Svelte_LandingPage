@@ -1,4 +1,11 @@
-# First Svelte LandingPage
+<div align="center">
+  <img src="https://static-00.iconduck.com/assets.00/svelte-icon-1703x2048-c1sw8yt9.png" width="200"/>
+</div>
+
+<div align="center">
+<h1>First Svelte LandingPage</h1>
+</div>
+
 - Svelte
 - SASS
 - Bootstrap
